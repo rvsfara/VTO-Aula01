@@ -42,5 +42,8 @@ public class Conversao {
         System.out.println("f3: " + f3);
         System.out.println("i4: " + i4);
 
+        b1 = (byte) d3;
+        System.out.println("b1: " + b1);
+
     }
 }
