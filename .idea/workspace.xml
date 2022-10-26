@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="845d8ef6-ddea-41d2-960d-f5fe82da4237" name="Changes" comment="Operadores Matemáticos">
-      <change afterPath="$PROJECT_DIR$/src/one/dio/basecamp/Conversao.java" afterDir="false" />
+    <list default="true" id="845d8ef6-ddea-41d2-960d-f5fe82da4237" name="Changes" comment="Conversão de tipos de dados; Casting">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/dio/basecamp/Conversao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/dio/basecamp/Conversao.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666786665777</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Conversão de tipos de dados; Casting">
+      <created>1666787698320</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666787698320</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,6 +96,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Operadores Matemáticos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Operadores Matemáticos" />
+    <MESSAGE value="Conversão de tipos de dados; Casting" />
+    <option name="LAST_COMMIT_MESSAGE" value="Conversão de tipos de dados; Casting" />
   </component>
 </project>

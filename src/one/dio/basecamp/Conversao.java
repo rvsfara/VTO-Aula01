@@ -2,7 +2,7 @@ package one.dio.basecamp;
 
 public class Conversao {
     public static void main(String[] args) {
-        byte b;
+        byte b1;
         short s1 = 1000;
         b1 = (byte) s1; //downcast reduzindo a capacidade perde informações
 
@@ -34,6 +34,13 @@ public class Conversao {
         i4 = (int) f4;
 
         System.out.println("b1: " + b1);
+        System.out.println("l1: " + l1);
+        System.out.println("i2: " + i2);
+        System.out.println("i3: " + i3);
+        System.out.println("d1: " + d1);
+        System.out.println("f2: " + f2);
+        System.out.println("f3: " + f3);
+        System.out.println("i4: " + i4);
 
     }
 }
